@@ -1,0 +1,189 @@
+#EXTM3U
+#EXTINF:-1,------------Sample1----------
+http://doesitwork.ts
+#EXTINF:-1,BBC ONE UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20206.ts
+#EXTINF:-1,BBC ONE UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/20784.ts
+#EXTINF:-1,BBC TWO UK
+http://mlsh.co:2086/live/Terry1/Terry1/20207.ts
+#EXTINF:-1,BBC TWO UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/20785.ts
+#EXTINF:-1,ITV 1 UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20208.ts
+#EXTINF:-1,ITV1 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/20788.ts
+#EXTINF:
+#EXTINF:-1,CHANNEL 4 UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20209.ts
+#EXTINF:-1,Channel 4 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/20787.ts
+
+#EXTINF:-1,CHANNEL 5 UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20210.ts
+#EXTINF:-1,CHANNEL 5 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/20786.ts
+#EXTINF:-1,CHANNEL 5 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/25855.ts
+#EXTINF:-1,SKY ONE UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20211.ts
+#EXTINF:-1,SKY ONE UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26671.ts
+#EXTINF:-1,SKY LIVING UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20214.ts
+#EXTINF:-1,SKY LIVING UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26672.ts
+#EXTINF:-1,SKY ATLANTIC UK
+http://mlsh.co:2086/live/Terry1/Terry1/20216.ts
+#EXTINF:-1,SKY TWO UK
+http://mlsh.co:2086/live/Terry1/Terry1/20212.ts
+#EXTINF:-1,SKY ARTS UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26670.ts
+#EXTINF:-1,SKY ARTS UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20218.ts
+#EXTINF:-1,SYFY UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26669.ts
+#EXTINF:-1,TLC UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26668.ts
+#EXTINF:-1,ALIBI UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26680.ts
+#EXTINF:-1,ALIBI UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20241.ts
+#EXTINF:-1,AMC UK
+http://mlsh.co:2086/live/Terry1/Terry1/21062.ts
+#EXTINF:-1,CBS REALITY UK
+http://mlsh.co:2086/live/Terry1/Terry1/20245.ts
+#EXTINF:-1,CBS ACTION UK
+http://mlsh.co:2086/live/Terry1/Terry1/20243.ts
+#EXTINF:-1,CBS DRAMA UK
+http://mlsh.co:2086/live/Terry1/Terry1/20244.ts
+#EXTINF:-1,CHALLENGE UK
+http://mlsh.co:2086/live/Terry1/Terry1/20227.ts
+#EXTINF:-1,COMEDY CENTRAL UK
+http://mlsh.co:2086/live/Terry1/Terry1/20228.ts
+#EXTINF:-1,COMEDY CENTRAL EXTRA UK
+http://mlsh.co:2086/live/Terry1/Terry1/21074.ts
+#EXTINF:-1,DAVE UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/20234.ts
+#EXTINF:-1,DAVE UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/26679.ts
+#EXTINF:-1,DAVE JA VU UK
+http://mlsh.co:2086/live/Terry1/Terry1/25850.ts
+#EXTINF:-1,DMAX UK
+http://mlsh.co:2086/live/Terry1/Terry1/20230.ts
+#EXTINF:-1,DRAMA UK
+http://mlsh.co:2086/live/Terry1/Terry1/20246.ts
+#EXTINF:-1,E4 UK
+http://mlsh.co:2086/live/Terry1/Terry1/20225.ts
+#EXTINF:-1,E4 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/25847.ts
+#EXTINF:-1,E4 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/25848.ts
+#EXTINF:-1,E! UK
+http://mlsh.co:2086/live/Terry1/Terry1/20247.ts
+#EXTINF:
+#EXTINF:-1,EDEN UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26678.ts
+#EXTINF:-1,EDEN UK
+http://mlsh.co:2086/live/Terry1/Terry1/20368.ts
+#EXTINF:-1,FIVE STAR UK
+http://mlsh.co:2086/live/Terry1/Terry1/20232.ts
+#EXTINF:-1,FIVE USA UK
+http://mlsh.co:2086/live/Terry1/Terry1/20233.ts
+#EXTINF:
+#EXTINF:-1,FOOD NETWORK UK
+http://mlsh.co:2086/live/Terry1/Terry1/20248.ts
+#EXTINF:-1,FOX UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26677.ts
+#EXTINF:-1,FOX UK
+http://mlsh.co:2086/live/Terry1/Terry1/20250.ts
+#EXTINF:-1,GOOD FOOD UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26676.ts
+#EXTINF:-1,GOODFOOD UK
+http://mlsh.co:2086/live/Terry1/Terry1/20369.ts
+#EXTINF:-1,GOLD UK
+http://mlsh.co:2086/live/Terry1/Terry1/20235.ts
+#EXTINF:-1,HORROR CHANNEL
+http://mlsh.co:2086/live/Terry1/Terry1/20130.ts
+#EXTINF:-1,HOME
+http://mlsh.co:2086/live/Terry1/Terry1/20113.ts
+#EXTINF:-1,ITV2 UK
+http://mlsh.co:2086/live/Terry1/Terry1/20219.ts
+#EXTINF:-1,ITV2 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/22217.ts
+
+#EXTINF:-1,ITV 3 UK
+http://mlsh.co:2086/live/Terry1/Terry1/20220.ts
+#EXTINF:-1,ITV 3 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/22216.ts
+
+#EXTINF:-1,ITV 4 UK
+http://mlsh.co:2086/live/Terry1/Terry1/20221.ts
+#EXTINF:-1,ITV 4 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/22215.ts
+
+
+#EXTINF:-1,ITV BE UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/22214.ts
+#EXTINF:-1,ITV ENCORE UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26675.ts
+#EXTINF:-1,ITV ENCORE UK
+http://mlsh.co:2086/live/Terry1/Terry1/20223.ts
+#EXTINF:-1,LIFE TIME UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20301.ts
+#EXTINF:-1,HORSE AND COUNTRY UK
+http://mlsh.co:2086/live/Terry1/Terry1/26655.ts
+#EXTINF:-1,MTV LIVE HD
+http://mlsh.co:2086/live/Terry1/Terry1/26662.ts
+#EXTINF:-1,MORE 4 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26673.ts
+#EXTINF:-1,MORE4 UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20224.ts
+
+#EXTINF:-1,MY 5 UK
+http://mlsh.co:2086/live/Terry1/Terry1/22906.ts
+#EXTINF:-1,PBS USA
+http://mlsh.co:2086/live/Terry1/Terry1/20173.ts
+#EXTINF:-1,PICK UK
+http://mlsh.co:2086/live/Terry1/Terry1/20359.ts
+#EXTINF:-1,QUEST UK
+http://mlsh.co:2086/live/Terry1/Terry1/20362.ts
+
+#EXTINF:-1,Sky News SD
+http://mlsh.co:2086/live/Terry1/Terry1/20309.ts
+#EXTINF:-1,Sky News HD
+http://mlsh.co:2086/live/Terry1/Terry1/21866.ts
+#EXTINF:-1,SPIKE UK
+http://mlsh.co:2086/live/Terry1/Terry1/20360.ts
+#EXTINF:-1,SYFY UK
+http://mlsh.co:2086/live/Terry1/Terry1/20307.ts
+#EXTINF:-1,REAL LIVES UK
+http://mlsh.co:2086/live/Terry1/Terry1/21061.ts
+#EXTINF:-1,REALLY UK
+http://mlsh.co:2086/live/Terry1/Terry1/20358.ts
+#EXTINF:-1,TLC UK
+http://mlsh.co:2086/live/Terry1/Terry1/21063.ts
+#EXTINF:-1,TRU TV UK
+http://mlsh.co:2086/live/Terry1/Terry1/21060.ts
+#EXTINF:-1,TRAVEL CHANNEL UK
+http://mlsh.co:2086/live/Terry1/Terry1/20088.ts
+#EXTINF:-1,TRUE CRIME UK
+http://mlsh.co:2086/live/Terry1/Terry1/22905.ts
+#EXTINF:-1,TRUE MOVIES 2
+http://mlsh.co:2086/live/Terry1/Terry1/25829.ts
+#EXTINF:-1,TRUE ENTERTAINMENT UK
+http://mlsh.co:2086/live/Terry1/Terry1/21069.ts
+
+#EXTINF:-1,TCM UK
+http://mlsh.co:2086/live/Terry1/Terry1/21073.ts
+#EXTINF:-1,WATCH UK
+http://mlsh.co:2086/live/Terry1/Terry1/20239.ts
+#EXTINF:-1,UNIVERSAL CHANNEL UK
+http://mlsh.co:2086/live/Terry1/Terry1/20237.ts
+#EXTINF:-1,YESTERDAY UK
+http://mlsh.co:2086/live/Terry1/Terry1/21068.ts
+#EXTINF:-1,3E UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26681.ts
+#EXTINF:-1,3E UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/21064.ts
+#EXTINF:-1,BBC ALBA UK
